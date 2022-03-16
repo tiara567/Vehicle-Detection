@@ -8,7 +8,7 @@ Machine Learning (ML) is a part of Artificial Intelligence (AI). It provides a m
 The ML model learns from labeled data. It has two branches. There are **classification** and **regression**.
 
 **2. Unsupervised Learning.**
-The ML model learns to find the pattern from unlabelled data, group them, and then label them to give a recommendation. Two examples of this ML model type are **dimension reduction* and **clustering**. 
+The ML model learns to find the pattern from unlabelled data, group them, and then label them to give a recommendation. Two examples of this ML model type are **dimension reduction** and **clustering**. 
 
 **3. Transfer Learning.**
 This type of ML model uses the existed ML model then adapts and modifies it to meet the current need. For example, person A has an ML model that classifies types of car, then person B borrows it to classify the types of truck. Person B does not need to program the ML from scratch. He only needs to transfer the "ML model's intelligence/knowledge" and re-train it using the new dataset.
